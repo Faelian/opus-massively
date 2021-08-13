@@ -3734,7 +3734,7 @@ input, select, textarea {
 						}
 
 				#nav ul.links li.billets {
-					background-color: #e44c65;
+					background-color: rgba(155, 117, 228, 0.92);
 				}
 
 					#nav ul.links li.billets a {
